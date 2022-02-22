@@ -1,0 +1,7 @@
+baseURL = "https://sk1.jsiu.dev"
+theme   = "sk1"
+title   = "Aaron Grom"
+
+[Params]
+mainSections = "post"
+subtitle = "Work In Progress..."
